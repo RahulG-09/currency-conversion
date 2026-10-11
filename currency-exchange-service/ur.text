@@ -1,0 +1,14 @@
+currency Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Currecny Conversion Service
+
+
+{
+   "id":10001,
+   "from":"USD",
+   "to":"INR",
+   "conversionMultiple":65.00,
+   "environment":"8000 instance-id"
+}
+https://github.com/in28minutes/spring-microservices-v3/tree/main/03.microservices/01-step-by-step-changes#step-03
